@@ -1,5 +1,5 @@
 # Dolar hoje
-App simples que busca o valor do dola atualizado na api awesomeapi
+App que busca o valor do dolar atualizado na API awesomeapi
 
 ## Tecnologias
 - HTML
